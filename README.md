@@ -14,8 +14,6 @@ This app lets users have immersive, podcast-style conversations with iconic hist
 How to Run the Project Locally
 
 1. Clone this repo
-git clone https://github.com/your-username/echocast-ai.git
-cd echocast-ai
 
 2. Create a virtual environment (optional but recommended)
 python -m venv venv
